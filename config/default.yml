@@ -7,9 +7,24 @@ attributes:
     homebrewalt:
         apps:
             - git
-            - emacs
+            - gnugp
+            - awscli
+            - gcc46
+            - rtorrent
+            - packer
+            - htop-osx
         cask_apps:
             - adium
-            - omnifocus
             - iterm2
             - spotify
+            - gpgtools
+            - firefox
+            - choosy
+            - sizeup
+            - bartender
+	    - java7
+            - kindle
+            - spotify
+            - vagrant
+            - vmware-fusion
+            - google-chrome
